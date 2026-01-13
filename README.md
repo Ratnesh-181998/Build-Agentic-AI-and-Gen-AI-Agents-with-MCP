@@ -4,7 +4,7 @@
 - https://fastmcp.cloud/
 ---
 
-# Table of contents 
+# Table of contents - Live Demo & Topics in Details Coming Soon 
 
 ### Section 1 Model Context Protocol
 ### Section 2 Getting Started With Claude Desktop And Cursor IDE
