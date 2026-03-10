@@ -74,6 +74,14 @@
 
 ---
 
+# [Model Context Protocol (MCP) – The USB-C for AI Applications](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP/blob/main/Model%20Context%20Protocol%20(MCP)%20%E2%80%93%20The%20USB-C%20for%20AI%20Applications.pdf)
+
+<img width="1121" height="1343" alt="image" src="https://github.com/user-attachments/assets/eae5ab87-7147-46a6-8f49-ad8be55a1c95" />
+<img width="1069" height="1307" alt="image" src="https://github.com/user-attachments/assets/2f0ed634-5b3d-4c36-8ee0-4aa11834a7df" />
+
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
