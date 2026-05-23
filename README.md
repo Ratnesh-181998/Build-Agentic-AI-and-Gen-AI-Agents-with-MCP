@@ -44,7 +44,8 @@
 - 🧩 **spaCy** 👉 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 [🌐Official Website](https://spacy.io/)  [📘 Documentation](https://github.com/explosion/spacy-layout)
 
-
+- Complete Agentic AI Course In 10 Hours- Langchain, Langgraph, RAG,Vectorless RAG, Guardrails,Evals : https://www.youtube.com/watch?v=rV3HJ4LEZ7k
+  
 <img width="595" height="727" alt="image" src="https://github.com/user-attachments/assets/616453ee-00a0-475c-b84c-b1c035e9a918" />
 
 ---
